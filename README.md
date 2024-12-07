@@ -68,8 +68,3 @@
   
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kylaronquillo/kylaronquillo/output/snake.svg" alt="Snake animation" />
-
-###
