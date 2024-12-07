@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kylaronquillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<!--###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
 
-###
+###-->
 
 <br clear="both">
 
@@ -52,7 +52,7 @@
 <!--<a href="https://tryhackme.com/@mang0gr4h4m">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo" />-->
 </a>
-<a href="https://medium.com/@kylaronquillo">
+<a href="https://medium.com/@kylasbronquillo">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo" />
 </a>
 <a href="mailto:kylasbronquillo.com">
