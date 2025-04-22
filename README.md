@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I am currently taking the Associate Data Scientist in Python path in DataCamp<br>👩🏻‍💻 I am a Project Manager Intern<br>👀 Interested in ML/AI | UI/UX Design<br>😄 Pronouns: She/her<br>📫 How to reach me: LinkedIn<br>🌏 Check out my portfolio! https://kylaronquillo.vercel.app/</p>
+<p align="left">🌱 I am currently taking the Associate Data Scientist in Python path in DataCamp<br>👩🏻‍💻 I am a Project Manager Intern<br>👀 Interested in Data | ML/AI | Project Management<br>😄 Pronouns: She/her<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kylaronquillo/)<br>🌏 Check out my portfolio! https://kylaronquillo.vercel.app/</p>
 
 ###
 
